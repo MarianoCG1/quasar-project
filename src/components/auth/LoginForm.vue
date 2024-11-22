@@ -179,7 +179,7 @@ export default {
             icon: 'check_circle'
           })
           //Redirect to  /dashboard
-          this.$router.push("/dashboard/product")
+          this.$router.push("/dashboard/movie")
 
         }).catch(error => {
           //Notify error
